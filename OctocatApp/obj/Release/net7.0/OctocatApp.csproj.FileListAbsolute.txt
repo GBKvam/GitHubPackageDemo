@@ -1,0 +1,15 @@
+C:\dev\GitHubPackageDemo\OctocatApp\bin\Release\net7.0\OctocatApp.exe
+C:\dev\GitHubPackageDemo\OctocatApp\bin\Release\net7.0\OctocatApp.deps.json
+C:\dev\GitHubPackageDemo\OctocatApp\bin\Release\net7.0\OctocatApp.runtimeconfig.json
+C:\dev\GitHubPackageDemo\OctocatApp\bin\Release\net7.0\OctocatApp.dll
+C:\dev\GitHubPackageDemo\OctocatApp\bin\Release\net7.0\OctocatApp.pdb
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.csproj.AssemblyReference.cache
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.AssemblyInfoInputs.cache
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.AssemblyInfo.cs
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.csproj.CoreCompileInputs.cache
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.dll
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\refint\OctocatApp.dll
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.pdb
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\OctocatApp.genruntimeconfig.cache
+C:\dev\GitHubPackageDemo\OctocatApp\obj\Release\net7.0\ref\OctocatApp.dll
